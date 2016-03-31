@@ -2,9 +2,7 @@
 
 A proof of concept [data.json](https://project-open-data.cio.gov/v1.1/schema/) editor based on [json-editor](https://github.com/JJediny/json-editor). The form generates YAML as an output/export which is used by Static Hosted sites like Jekyll/Github Pages and can be used to generate a valid collection of individual files dynamically into a [consolidated data.json file](https://github.com/timwis/jkan/issues/34) that can then be harvested by data.gov. This editor is currently `BETA` targeting full feature integration as an editor for the [JKAN](https://github.com/timwis/jkan) project to offer a lightweight, no/low cost, low tech metadata management platform.
 
-> The Easiest way to get it up and running, is to fork this project, go to the repository settings, change the default branch to `gh-pages`, push any old commit (i.e. edit README) to intitate the build... 
-
-Go to `https://yourname.github.io/datajson-editor`
+> The Easiest way to get it up and running, is to fork this project, go to the repository settings, change the default branch to `gh-pages`, push any old commit (i.e. edit README) to intitate the build... Then go to https://yourname.github.io/datajson-editor
 
 ### Public domain
 
