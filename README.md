@@ -4,6 +4,7 @@ A proof of concept [data.json](https://project-open-data.cio.gov/v1.1/schema/) e
 
 > The Easiest way to get it up and running, is to fork this project, go to the repository settings, change the default branch to `gh-pages`, push any old commit (i.e. edit README) to intitate the build... Then go to https://yourname.github.io/datajson-editor
 
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
